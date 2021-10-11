@@ -1,5 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on plugins for the alt:V Athena Framework.
+- 🌱 I’m currently learning mainly TypeScript
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Booster1212&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booster1212)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Booster1212/Booster1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
