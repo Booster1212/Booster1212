@@ -1,22 +1,24 @@
 ### Hi there 👋
-- 🔭 I’m currently working on plugins for the alt:V Athena Framework.
-- 🌱 I’m currently learning mainly TypeScript
+<h1 align="left">Hi 👋, I'm Der Lord!</h1>
+<h3 align="left">A self-taught TypeScript Developer</h3>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Booster1212&show_icons=true&theme=radical)
+- 🔭 I’m currently working on **Athena Framework Plugins**
+
+- 🌱 I’m currently learning **Athena Framework, TypeScript, VueJS (3), MongoDB**
+
+- 👯 I’m looking to collaborate on **Athena Framework Repositorys**
+
+- 👨‍💻 All of my projects are available at [Github.com/Booster1212](Github.com/Booster1212)
+
+- 💬 Ask me about **TypeScript, Vue and MongoDB**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booster1212)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Booster1212/Booster1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=booster1212" alt="booster1212" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=booster1212&show_icons=true&locale=en" alt="booster1212" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=booster1212&show_icons=true&locale=en&layout=compact" alt="booster1212" /></p>
