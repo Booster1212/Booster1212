@@ -10,3 +10,5 @@ Skills: TypeScript / VueJS / MongoDB / Git
 - 👯 I’m looking to collaborate on open source plugins for the Athena Framework (GTA:V) 
 - 💬 Ask me about whatever you want 
 - 📫 How to reach me: https://discord.gg/zCqZ3XA7E3 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Booster1212&show_icons=true&theme=radical" />
