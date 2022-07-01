@@ -1,4 +1,4 @@
-![](https://dmtyylqvwgyxw.cloudfront.net/instances/132/uploads/images/custom_image/image/54366/normal_banner08BLlogo.png?v=1633448396)
+<img src="https://cdn.discordapp.com/attachments/896779950051434567/992315786494484490/hmbanner.gif" align="center" width="100%" height="400px">
 
 ### Hi there 👋, my name is Andy!
 I'm mostly doing programming as just a hobby and everything which i might know is mostly self-taught
