@@ -22,8 +22,8 @@ I'm a self-taught programmer and I mostly do programming as a hobby.
 
 ## Latest Work & Github Stats
 <div align="center">
-  <a href="https://github.com/Booster1212/plugin-attachmenteditor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Booster1212&repo=plugin-attachmenteditor&theme=dark&hide_border=true" alt="Readme Card"/>
+  <a href="https://github.com/Booster1212/open-source-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Booster1212&repo=open-source-shop&theme=dark&hide_border=true" alt="Readme Card"/>
   </a>
 </div>
 
