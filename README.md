@@ -8,7 +8,7 @@ I'm a self-taught programmer and I mostly do programming as a hobby.
 - 🔭 I’m currently working on plugins for the Athena Framework (GTA:V) 
 - 🌱 I’m currently learning programming as a hobby, mostly TypeScript/VueJS and MongoDB
 - 💬 Ask me about whatever you want 
-
+- </> Backend Developer @[ASCENDED-TEAM](https://github.com/ASCENDED-Team)
 > Sometimes life is going to hit you in the head with a brick. Don’t lose faith. - Steve Jobs
 
 ## Skills
