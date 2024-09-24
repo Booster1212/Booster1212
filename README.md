@@ -45,6 +45,7 @@ As the lead architect and developer, I created a groundbreaking faction system f
 
 <details>
 <summary>Click to expand full Ascended Factions feature set</summary>
+
 ## Ascended Factions: A Comprehensive Faction System for alt:V
 This plugin provides a robust and customizable framework for managing factions within your alt:V server. It offers a blend of administrative control and player agency, allowing for diverse faction structures and gameplay experiences.
 
