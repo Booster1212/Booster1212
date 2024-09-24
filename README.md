@@ -22,13 +22,9 @@ VueJS based Shopsystem for the Athena Framework, absolute free and open source! 
 ⭐ 16 🍴 14
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Booster1212&show_icons=true&theme=radical)
 
 ## 💡 A Bit of Wisdom
 > "Sometimes life is going to hit you in the head with a brick. Don't lose faith." - Steve Jobs
-
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](Your_Twitter_URL)
 
 ⚡ Fun fact: I can code with my eyes closed (just kidding, please don't try this at home)
